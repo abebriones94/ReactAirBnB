@@ -6,7 +6,7 @@
   "homepage": "https://abebriones94.github.io/ReactAirBnB",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=./",
+    "build": "vite build",
     "preview": "vite preview",
     "deploy": "gh-pages -d build"
   },
